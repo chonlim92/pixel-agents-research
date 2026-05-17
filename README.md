@@ -10,7 +10,7 @@ This repository is for researching and studying the [Pixel Agents](https://githu
 
 📄 [DOCS.md](docs/DOCS.md) — Complete technical documentation | ❓ [FAQ.md](docs/FAQ.md) — Frequently asked questions
 
-![Pixel Agents Demo](images/pixel-agents-demo.png)
+![Pixel Agents Demo](docs/images/layout_example_vscode.jpg)
 *Multi-agent office in action — two agents researching in parallel with speech bubbles showing live status*
 
 ## What Is Pixel Agents?
