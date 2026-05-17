@@ -4,7 +4,7 @@
 
 > A VS Code extension that turns Claude Code AI agents into animated pixel art characters in a virtual office.
 
-![Pixel Agents Demo](docs/images/layout_example_vscode.jpg)
+![Pixel Agents Demo](images/layout_example_vscode.jpg)
 *Multi-agent office in action — two agents researching in parallel with speech bubbles showing live status*
 
 ---
